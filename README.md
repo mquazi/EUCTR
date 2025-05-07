@@ -6,10 +6,7 @@ Extract and organize clinical trial data from the [EU Clinical Trials Register (
 
 This project is designed to scrape, clean, and store clinical trials data from the EUCTR using R. The output is a structured SQLite database that you can query, analyze, and integrate into downstream projects or dashboards. 
 
-## 📁 Files
-
-- `create_sql.R` — Main script to extract trial data and generate a local SQLite database. 
-- `statsupai.sqlite` (generated) — The resulting SQLite database with clinical trial metadata. 
+- `create_sql.R`: Main script to extract trial data and generate a local SQLite database. 
 
 ## 🛠 Requirements
 
